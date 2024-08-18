@@ -1,4 +1,5 @@
-Yulu Electric Cycle Demand Analysis:
+Yulu Electric Cycle Demand Analysis: 
+- (Yulu is a technology-driven platform that provides shared and eco-friendly micro-mobility vehicles for the first and last mile connectivity.)
 
 In this project, I defined and analyzed the problem of declining revenue for Yulu, a leading micro-mobility service provider in India, by focusing on the factors that influence the demand for their shared electric cycles. The primary goals were to identify key variables predicting demand, analyze how these variables explain fluctuations in usage, and provide actionable insights to enhance service utilization and revenue.
 
